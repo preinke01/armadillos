@@ -91,6 +91,7 @@ h2 {
 }
 p {
   color: white;
+  margin: 5px;
 }
 section.arm7 {
   position: relative;
