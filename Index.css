@@ -1,0 +1,126 @@
+@charset "UTF-8";
+@font-face {
+font-family: 'Abril Fatface', cursive;
+}
+/*Base style sheet for index of awesome armadillos*/
+/*awesome armadillos*/
+/*Peter Reinke*/
+/*11-2-17*/
+
+body, header, nav, main, footer, ul, li, img p{
+  display: block;
+  box-sizing: border-box;
+}
+html {
+  background-color: rgb(181, 184, 186);
+}
+body {
+  background-color: rgb(94, 94, 92);
+}
+header > img {
+  /*clear: left;*/
+  display: block;
+  /*float: left;*/
+  width: 100%;
+  /*margin left: auto;
+  margin right: auto;*/
+}
+header {
+  background-color: lime;
+  position: relative;
+}
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 4em;
+  /*width: 100%;*/
+  color: rgb(79, 7, 119);
+position: absolute;
+top: 25%;
+left: 30%;
+
+transform: translate(-20%, -50%);
+text-shadow: black 2px 4px 3px;
+}
+section {
+  position: relative;
+
+}
+section img {
+  float: left;
+  display: block;
+  width: 20%;
+
+
+}
+body{
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 960px;
+  min-width: 640px;
+}
+/*navigation*/
+
+nav {
+  background-color: rgb(20, 2, 2);
+  height: 20px;
+  clear: both;
+
+}
+nav ul{
+  width: 60%;
+margin:auto;
+}
+nav a {
+  background-color: tan;
+  display: block;
+  height: 20px;
+}
+nav a:hover {
+  background-color: yellow;
+}
+nav li {
+  float: left;
+  text-align: center;
+  width: 33%;
+}
+h2 {
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+  color: rgb(61, 14, 139);
+}
+p {
+  color: white;
+}
+section.arm7 {
+  position: relative;
+  width: 100%;
+  /*padding-left: 380px;*/
+}
+section.arm7 img {
+  float: none;
+  display: block;
+  width: 25%;
+  margin: auto;
+}
+section.arm2 {
+  position: relative;
+  width: 100%
+}
+section.arm2 img {
+  float: none;
+  display: block;
+  width: 25%
+  margin: auto;
+}
+footer{
+  clear: left;
+  background-color: black;
+  line-height: 10px;
+  text-align: center;
+  color: white;
+}
+h3 {
+  font-family: 'Abril Fatface', cursive;
+  color: rgb(61, 14, 139);
+}
