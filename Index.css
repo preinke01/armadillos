@@ -86,7 +86,7 @@ nav li {
 }
 h2 {
   font-family: 'Abril Fatface', cursive;
-  color: rgb(61, 14, 139);
+  color: rgb(254, 246, 253);
   text-align: center;
 }
 p {
@@ -113,7 +113,7 @@ section.arm3 {
   [float: none;
   display: block;
   width: 25%;
-  margin: auto;]
+  margin: auto;rgb(243, 247, 239)]
 }
 section.arm2 img {
   float: none;
@@ -130,6 +130,6 @@ footer{
 }
 h3 {
   font-family: 'Abril Fatface', cursive;
-  color: rgb(61, 14, 139);
+  color: rgb(247, 249, 242));
   text-align: center;
 }
