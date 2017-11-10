@@ -106,19 +106,19 @@ section.arm7 img {
 }
 section.arm2 {
   position: relative;
-  width: 100%
+  width: 100%;
 
 }
 section.arm3 {
   [float: none;
   display: block;
   width: 25%;
-  margin: auto;rgb(243, 247, 239)]
+  margin: auto;
 }
 section.arm2 img {
   float: none;
   display: block;
-  width: 25%
+  width: 25%;
   margin: auto;
 }
 footer{
